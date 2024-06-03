@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_previewcano",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Loja",
-    "path": "folders/Scripts/Loja.yy",
+  "$GMScript":"",
+  "%Name":"scr_previewcano",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_previewcano",
+  "parent":{
+    "name":"Loja",
+    "path":"folders/Scripts/Loja.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
